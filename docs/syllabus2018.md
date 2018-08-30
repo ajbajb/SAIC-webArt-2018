@@ -84,9 +84,9 @@ Students wait-listed for classes will be admitted on a space available basis det
 - Introductions
 - Intro to HTML
     - headers
-    - <p>
-    - <img>
-    - <a href>
+    - `<p>`
+    - `<img>`
+    - `<a href>`
 - Class field trip to MCA
 
 __Readings__
