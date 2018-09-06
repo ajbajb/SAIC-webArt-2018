@@ -12,7 +12,7 @@ Instructor
 
 
 Class Forum
-:   
+:   Slack Channel - SAICwebart2018
 
 Class Website
 :
@@ -116,7 +116,9 @@ __Readings__
 Tim Berners-Lee [“Long Live the Web”](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf)
 
 ### Week 3 -- Sept 13
-- CSS part 2
+- CSS
+    - Fonts
+    - Color
     - Selectors
     - Box Model
 
@@ -127,6 +129,8 @@ Tim Berners-Lee [“Long Live the Web”](http://jblomo.github.io/webarch253/sli
 - CSS part 2
     - Transitions
     - Animations
+
+- _Data Diary Due_
 
 __Assignment__
     - Web Montage
