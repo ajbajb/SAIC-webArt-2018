@@ -15,7 +15,7 @@ Public repository for PROFPRAC-3900-090 Web Art at SAIC in the fall of 2018
 - Snow- [Touch Carnival](https://snowxu17.github.io/PROFPRAC3900-090-Web-Art/WebMontage/)
 - Brian- [Ebay Catalogue](https://hcheng9862.github.io/Ebay-Catalogue/index.html)
 - Fengyu- [SAIC: 1996-Now](https://feeengyuuu.github.io/WebMontage/)
-- Rock-
-- Isa-
-- Kyle- 
+- Rock- [Long Live Chairman Mao](https://rockcls.github.io/Long-Live-Chairman-Mao/)
+- Isa- [Bob, New](https://pinkpiggy99.github.io/BobNew/)
+- Kyle-
 ___
