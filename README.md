@@ -10,3 +10,6 @@ Public repository for PROFPRAC-3900-090 Web Art at SAIC in the fall of 2018
 - Misaki- [procrastination](https://misakiueno.github.io/webMontage/)
 - Bill- [Meaning of Life](https://pjbill.github.io/webcollage/index.html)
 - Ann- [Craziness](https://annjw97.github.io/craziness/)
+- Iggy- [The '80's](https://iggy-e.github.io/Test-2018/05/HW/index.html)
+- Stella- [Botanic](https://stellayoo80.github.io/botanic/)
+- 
