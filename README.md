@@ -21,6 +21,6 @@ Public repository for PROFPRAC-3900-090 Web Art at SAIC in the fall of 2018
 
 ## Bookmarklets
 
-- Snow- [copy this link address](javascript:(function(){let s = document.createElement(‘script’);s.src=’https://snowxu17.github.io/PROFPRAC3900-090-Web-Art/07_bookmarklets/bookmarklet.js';document.body.appendChild(s);})();)
+- Snow- [copy this link address]("javascript:(function(){let s=document.createElement(‘script’);s.src=’https://snowxu17.github.io/PROFPRAC3900-090-Web-Art/07_bookmarklets/bookmarklet.js';document.body.appendChild(s);})();")
 - Iggy- https://iggy-e.github.io/Test-2018/bookmarklet/index.html
 - Fengyu- https://feeengyuuu.github.io/Bookmarklet/
